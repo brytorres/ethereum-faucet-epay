@@ -1,0 +1,20 @@
+<?php
+$faucet_steps=2;
+$adb=1;
+$bwait=5;
+$currency=6;
+$apicode='';
+$privkey='';
+$verkey='9MZDv-plBmDkjQvuj0dcO2rQVpcLH7fN';
+$hashkey='-8VuvJJe5jgXgfYVoXrHO-R5G5wtpg80';
+$ref_percent=50;
+$sitetitle='Ethereum Faucet - Free Ethereum';
+$domainname='http://www.ethereum-faucets.com';
+$setinterval=2;
+$keywords='Ethereum, Free Ethereum, Ethereum Faucet, Ether Faucet, Bitcoin, Bitcoin Faucet';
+$desc='Earn FREE Ethereum while you learn about cryptocurrency and play fun games!';
+$solvemedia_active=1;
+$recap_active=1;
+$recap_site='';
+$recap_secret='';
+$anti_bot=3;

@@ -1,0 +1,1 @@
+$(document).ready(function(){$('.clock').FlipClock(diff,{clockFace:'MinuteCounter',countdown:!0,callbacks:{stop:function(){location.reload()}}})})

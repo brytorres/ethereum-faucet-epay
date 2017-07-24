@@ -1,0 +1,7 @@
+Sitemap: https://www.ethereum-faucets.com/sitemap.xml
+User-agent: *
+Disallow: /adm
+Disallow: /ads
+Disallow: /configs
+Disallow: /includes
+Disallow: /templates/style
