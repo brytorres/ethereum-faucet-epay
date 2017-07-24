@@ -1,10 +1,12 @@
+### EPAY IS CURRENTLY DOWN
+
 # Ethereum Faucet - ePay
 
 This script allows you to run an Ethereum faucet on a website. It is built using ePay scripts. It includes games and a twitter feed to provide the user with content to view while waiting for the faucter timer to reset. 
 
 ## Getting Started
 
-If you upload the files directly to your server, your will need to setup the needed configuration parameters found within the ```config``` folder. This includes the database and API information required for reCaptcha and SolveMedia. The games can be exchanged for any HTML game set to the proper sizes, and the Twitter feed and resources page should be replaced with your own content.
+If you upload the files directly to your server, your will need to setup the needed configuration parameters found within the ```configs``` folder. This includes the database and API information required for reCaptcha and SolveMedia using the files ```configs.php``` and ```dbinfo.php```. The games can be exchanged for any HTML game set to the proper sizes, and the Twitter feed and resources page should be replaced with your own content.
 
 ### Cryptocurrencies Used
 
